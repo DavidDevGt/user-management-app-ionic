@@ -1,0 +1,7 @@
+{
+  "name": "user-management-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
